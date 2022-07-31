@@ -2,8 +2,6 @@
 
 > Applying DevOps, Observability and Monitoring concepts on a workshop app with New Relic.
 
- The app is hosted at [glitch](https://glitch.com/edit/#!/felipesaldata-observability)
-
 - [X] Developing the APM (App Performance Monitoring).
 - [X] Monitoring MELT (Metrics, Event, Logs and Traces).
 - [X] Dashboard and Metrics visualization.
@@ -11,10 +9,14 @@
 - [X] Static and Dynamic alerts and 
 - [X] Core Web Vitals and Apdex Monitoring.
 
+## **🛵The App🍱**
 
+ Food Delivery app was built with AngularJS
+and Node.js backend and hosted at [**Glitch**](https://glitch.com/edit/#!/felipesaldata-observability).
+![home](figures\app1.png)
+![home](figures\app2.png)
 
-
-## **👨🏻‍🏫 App's Observability Dashboard**
+## **👨🏻‍🏫 Observability Dashboard**
 
 ### **New Relic Final Dashboard**
 >[**Watch the live version here (New Relic account required**)](https://onenr.io/0BQ1AqAAWQx)
