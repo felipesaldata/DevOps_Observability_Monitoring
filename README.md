@@ -13,8 +13,8 @@
 
  Food Delivery app was built with AngularJS
 and Node.js backend and hosted at [**Glitch**](https://glitch.com/edit/#!/felipesaldata-observability).
-![home](figures\app1.PNG)
-![home](figures\app2.PNG)
+![home](figures/app1.png)
+![app2](figures/app2.png)
 
 ## **👨🏻‍🏫 Observability Dashboard**
 
